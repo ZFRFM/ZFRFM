@@ -1,4 +1,4 @@
-## The green robot (Android) is here:)
+## The green robot is here:)
 ### Hi there 👋 Latest news, I started studying Android development
 
 #### Languages and Tools
