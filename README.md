@@ -7,5 +7,5 @@
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-000000?style=for-the-badge&logo=androidstudio)
 
 #### You can find me here
-![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram)
-![Vkontakte](https://img.shields.io/badge/-VKontakte-000000?style=for-the-badge&logo=Vk)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/zfrfm/)
+[![Vkontakte](https://img.shields.io/badge/-VKontakte-000000?style=for-the-badge&logo=Vk)](https://vk.com/zfrfm)
