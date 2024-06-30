@@ -1,5 +1,5 @@
 ## The green robot is here:) / Спрятал зелёного робота тут
-### Hi there 👋 Latest news, I started studying Android development / Изучаю основы Android разработки
+### Hi there 👋 Latest news, I am studying Android development / Я тут изучаю Android разработку
 
 #### Languages and Tools / В багаже есть
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge)
