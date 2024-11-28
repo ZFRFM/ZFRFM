@@ -2,8 +2,6 @@
 ## Android Developer
 #### You can find me here / Обычно бываю тут
 [![Telegram](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zfrfm1)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/zfrfm/)
-[![VKontakte](https://img.shields.io/badge/-VKontakte-000000?style=for-the-badge&logo=Vk)](https://vk.com/zfrfm)
 ### :hammer_and_wrench: Tech:
 <div>
   <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge"/>
