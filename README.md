@@ -10,6 +10,3 @@
   <img src="https://img.shields.io/badge/jetpackcompose-yellow?style=for-the-badge&logo=jetpackcompose&logoColor=white&color=%234285F4" alt="jetpack compose Badge"/>
   <img src="https://img.shields.io/badge/androidstudio-yellow?style=for-the-badge&logo=androidstudio&logoColor=white&color=%233DDC84" alt="android studio Badge"/>
 </div>
-
-### :fire: Stat:
-[![GitHub Streak](https://streak-stats.demolab.com?user=ZFRFM&theme=ocean-gradient&locale=en)](https://git.io/streak-stats)
